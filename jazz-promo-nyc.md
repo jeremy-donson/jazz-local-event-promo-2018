@@ -85,6 +85,8 @@ to promote local jazz events in several regions of New York City:
 - [Music at CUNY/CCNY](https://www.ccny.cuny.edu/music)
 - [BMCC Music Programs](http://www.bmcc.cuny.edu/academics/mus_courses.jsp)
 - [Harlem School of the Arts](https://hsanyc.org/)
+- [Sound It Out](https://sounditoutnyc.com/)
+- [Greenwich House](http://www.greenwichhouse.org/music_school/)
 
 ## Local Event Promo In Print
 - [Hot House Jazz](hothousejazz.com)
@@ -112,6 +114,8 @@ to promote local jazz events in several regions of New York City:
 - [Minton's Playhouse](http://mintonsharlem.com/)
 - [Gin Fizz Harlem](http://ginfizzharlem.com/)
 - [Russian Samovar](http://www.russiansamovar.com/)
+- [Sound It Out Concerts](https://sounditoutnyc.com/concerts/2018-concerts/)
+- [Greenwich Music School](http://www.greenwichhouse.org/music_school/uncharted)
 
 ## Sponsors of Many Types
 - Food
@@ -171,7 +175,7 @@ to promote local jazz events in several regions of New York City:
 
 ## What Is Needed To Progress To Second Stage
 
-1. 
+1. Promo scouts in each NYC Region of Focus. 
 2. 
 3. 
 4. 
