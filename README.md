@@ -45,4 +45,4 @@
 
 - NYC ZIPS - Manhattan
 
-![NYC ZIPS - Manhattan](img/manhattan-zips.png)
+![NYC ZIPS - Manhattan](images/manhattan-zips.png)
