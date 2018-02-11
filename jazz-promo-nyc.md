@@ -161,9 +161,9 @@ to promote local jazz events in several regions of New York City:
 
 5. Provide promotional options for local events which leverage all points of online social networking.
 
-6. Start to provide promotional services to bands for cheap, barter or free.
+6. Engage proven photographers to capture the authentic live talent.
 
-7. Start to provide promotional service subscriptions to venues.
+7. Engage budding photographers to capture the authentic live talent.
 
 8. Establish online service for non-profit donation payment installments, where non-profit deductible receipts are provided.
 
@@ -190,7 +190,9 @@ to promote local jazz events in several regions of New York City:
 3. Evaluate soft slots for happy hour and early show pioneering options.
 4. See if multi-lingual efforts get any traction.
 5. Establish explicit and formal terms of online donation deductions.
+6. Start to provide promotional services to bands for cheap, barter or free.
 
+7. Start to provide promotional service subscriptions to venues.
 ---
 
 ## What Is Needed To Progress To Third Stage
