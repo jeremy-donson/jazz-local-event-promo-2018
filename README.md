@@ -47,6 +47,8 @@
 
 ![NYC ZIPS - Manhattan](images/manhattan-zips.png)
 
+---
+
 - NYC ZIPS - Brooklyn
 
-![NYC ZIPS - Manhattan](images/brooklyn-zips.png)
+![NYC ZIPS - Brooklyn](images/brooklyn-zips.jpg)
