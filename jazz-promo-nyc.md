@@ -28,7 +28,7 @@
 - [What Is Needed To Progress To Third Stage](#-what-is-needed-to-progress-to-third-stage)
 - [2018 THIRD STAGE OF INITIATIVES](#2018-third-stage-of-intiatives)
 
-- [Enhancements](#enhancements)
+- [Project Plan Enhancements](jazz-promo-nyc.md#project-plan-enhancements)
 
 ---
 
@@ -135,7 +135,7 @@ to promote local jazz events in several regions of New York City:
 
 ## What Is Needed To Begin First Stage
 
-1. An impressive title to properly approaching venues and sponsors.
+1. An impressive collection os automated online promotional services to properly facilitate event calendars, as well as assist venues and sponsors.
 
 ---
 
@@ -171,11 +171,11 @@ to promote local jazz events in several regions of New York City:
 
 ## What Is Needed To Progress To Second Stage
 
-1. An impressive title to properly approaching venues and sponsors.
-2. Some budget for sustained promotional efforts.
-3. Some mild but valid ongoing perks for promoting event calendars.
-4. Clear terms for sponsor outreach and onboarding.
-5. Approvals and terms for moving to Stage II.
+1. 
+2. 
+3. 
+4. 
+5. 
 
 ---
 
@@ -191,7 +191,7 @@ to promote local jazz events in several regions of New York City:
 
 ## What Is Needed To Progress To Third Stage
 
-1. BlahBlahBlah
+1. 
 
 ---
 
@@ -201,20 +201,15 @@ to promote local jazz events in several regions of New York City:
 
 ---
 
-=> On the ground.
-
-=> Online
-
-
-
-## Enhancements
+## Project Plan Enhancements
 
 - [ ] Clarify terms of tastes and sustainable exchange for both on-the-street and online intiatives.
 - [ ] Have Michael Baumann review and get his ok for this 'publicity stunt'. ;)
+- [ ] On the ground + Online for each stage.
 - [ ] Add photography program section.
 - [ ] Create selenium script for event post creation.
 - [ ] Scrape events from web site with BeautifulSoup.
-- [ ] Add this project to 
+- [ ] Add this project to other projects.
 
 ---
 [Return To Project Main README Doc](README.md)

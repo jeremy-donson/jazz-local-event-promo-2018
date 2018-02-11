@@ -1,4 +1,4 @@
-## Local NYC Jazz Event Promo Project
+## Local NYC Jazz Event Promo Project Plan
 
 - Author: Jeremy Donson, NYC
 - Goal: How to best serve the local NYC jazz community.
@@ -37,7 +37,7 @@
 
 - [2018 THIRD STAGE OF INITIATIVES](jazz-promo-nyc.md#2018-third-stage-of-intiatives)
 
-- [Enhancements](jazz-promo-nyc.md#enhancements)
+- [Project Plan Enhancements](jazz-promo-nyc.md#project-plan-enhancements)
 
 ---
 
@@ -52,3 +52,9 @@
 - NYC ZIPS - Brooklyn
 
 ![NYC ZIPS - Brooklyn](images/brooklyn-zips.jpg)
+
+---
+
+- NYC ZIPS - The Bronx
+
+![NYC ZIPS - Bronx](images/bronx-zip-codes-map.jpg)
