@@ -1,7 +1,7 @@
 ## Local NYC Jazz Event Promo Project
 
 - Author: Jeremy Donson, NYC
-- Topic: We are here to serve the local NYC jazz community.
+- Goal: How to best serve the local NYC jazz community.
 - Description: This is the year that we are making moves to break new ground with a three-stage plan.  
 
 ## Table Of Contents
@@ -46,3 +46,7 @@
 - NYC ZIPS - Manhattan
 
 ![NYC ZIPS - Manhattan](images/manhattan-zips.png)
+
+- NYC ZIPS - Brooklyn
+
+![NYC ZIPS - Manhattan](images/brooklyn-zips.png)
