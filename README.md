@@ -6,6 +6,8 @@
 
 ## Table Of Contents
 
+- [Diagram Of 1000 Foot View of Project](#diagram-of-1000-foot-view-of-project)
+
 - [NYC Regions Of Focus](jazz-promo-nyc.md#nyc-regions-of-focus)
 
 - [Alliance Offerings](jazz-promo-nyc.md#alliance-offerings)
@@ -41,11 +43,11 @@
 
 ---
 
-## Diagram Of 1000 Foot View
+## Diagram Of 1000 Foot View of Project
 
 ![1000 foor view diagram](images/2018-Local-Event-Promo-Project-Diagram.png)
 
-# NYC Regions Of Focus
+## NYC Regions Of Focus
 
 - NYC ZIPS - Manhattan
 
