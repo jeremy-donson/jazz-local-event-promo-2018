@@ -6,7 +6,7 @@
 
 ## Table Of Contents
 
-- [NYC Regions Of Focus](#nyc-regions-of-interest)
+- [NYC Regions Of Focus](#nyc-regions-of-focus)
 - [Alliance Offerings](#alliance-offerings)
 - [Jazz-Centric Big-Hearted Efforts](#jazz-centric-big-hearted-efforts)
 - [Local Jazz Radio Stations](#local-jazz-radio-stations)
@@ -114,6 +114,7 @@ to promote local jazz events in several regions of New York City:
 - [Minton's Playhouse](http://mintonsharlem.com/)
 - [Gin Fizz Harlem](http://ginfizzharlem.com/)
 - [Russian Samovar](http://www.russiansamovar.com/)
+- [Jazz and Blues Preservation Foundation](https://www.facebook.com/JazzandBluesPreservation/)
 - [Sound It Out Concerts](https://sounditoutnyc.com/concerts/2018-concerts/)
 - [Greenwich Music School](http://www.greenwichhouse.org/music_school/uncharted)
 
@@ -131,9 +132,12 @@ to promote local jazz events in several regions of New York City:
 # 2018 Initiatives In Three Stages
 
 ## What Is Our Commitment
-* Gathering monthly org and venue calendars.
-* Automating event posting twice a week.
-* Monthly reviews and planning sessions to keep roadmap effective and flexible.
+- Gathering monthly org and venue calendars.
+- Automating event posting twice a week.
+- Monthly reviews and planning sessions to keep roadmap effective and flexible.
+- Weekly:
+* Sunday at Minton's Playhouse
+* 
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## Table Of Contents
 
-- [NYC Regions Of Focus](jazz-promo-nyc.md#nyc-regions-of-interest)
+- [NYC Regions Of Focus](jazz-promo-nyc.md#nyc-regions-of-focus)
 
 - [Alliance Offerings](jazz-promo-nyc.md#alliance-offerings)
 
