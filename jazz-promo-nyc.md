@@ -235,6 +235,7 @@ to promote local jazz events in several regions of New York City:
 ## Attributions
 
 - [Author](https://github.com/jeremy-donson/): Jeremy Donson, NYC
+- Thanks for diagram idea to Meredith Ann Brothers.
 - Special Thanks To [Michael Baumann](https://www.facebook.com/michael.baumann.5494) for his truly amazing authentic [jazz photography](https://www.flickr.com/photos/michaelbaumann_jano/sets/72157638299992995).  
 
 ---

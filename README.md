@@ -41,6 +41,10 @@
 
 ---
 
+## Diagram Of 1000 Foot View
+
+![1000 foor view diagram](images/2018-Local-Event-Promo-Project-Diagram.png)
+
 # NYC Regions Of Focus
 
 - NYC ZIPS - Manhattan
