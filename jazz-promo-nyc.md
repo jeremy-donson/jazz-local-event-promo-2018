@@ -105,6 +105,7 @@ to promote local jazz events in several regions of New York City:
 ## Local Bands
 - [Kristina Koller](https://www.facebook.com/pg/kristinakollermusic/events/)
 
+---
 
 ## Local Venues
 - [Settepanni's Restaurant](http://www.settepani.com/)
@@ -117,6 +118,8 @@ to promote local jazz events in several regions of New York City:
 - [Jazz and Blues Preservation Foundation](https://www.facebook.com/JazzandBluesPreservation/)
 - [Sound It Out Concerts](https://sounditoutnyc.com/concerts/2018-concerts/)
 - [Greenwich Music School](http://www.greenwichhouse.org/music_school/uncharted)
+
+---
 
 ## Sponsors of Many Types
 - Food
@@ -136,8 +139,12 @@ to promote local jazz events in several regions of New York City:
 - Automating event posting twice a week.
 - Monthly reviews and planning sessions to keep roadmap effective and flexible.
 - Weekly:
-* Sunday at Minton's Playhouse
-* 
+  * Tuesday - Automated Calendar Push
+  * Thursday - Automated Calendar Push
+  * Sunday - On Site At Minton's Playhouse
+  * Thursday - On Site At Settapanni's
+- Monthly:
+  * Executive Project Planning Meeting
 
 ---
 
