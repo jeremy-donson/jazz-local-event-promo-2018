@@ -1,8 +1,10 @@
 # Local NYC Jazz Event Promo Project
 
 - Author: Jeremy Donson, NYC
+- Date Created: Feb 11, 2018
 - Goal: How to best serve the local NYC jazz community.
 - Description: This is the year that we are making moves to break new ground with a three-stage plan.  
+
 
 ## Table Of Contents
 
@@ -28,6 +30,7 @@
 - [What Is Needed To Progress To Third Stage](#-what-is-needed-to-progress-to-third-stage)
 - [2018 THIRD STAGE OF INITIATIVES](#2018-third-stage-of-intiatives)
 
+- [Attributions](#attributions)
 - [Project Plan Enhancements](jazz-promo-nyc.md#project-plan-enhancements)
 
 ---
@@ -50,9 +53,6 @@ to promote local jazz events in several regions of New York City:
 ### We also have two support groups for helping musicians:  
 - [Learning to play jazz as well as posting performances or recordings](https://www.facebook.com/groups/nycblues2jazz/).
 - [Helping bands learn to promote themselves online](https://www.facebook.com/groups/JazzBandVenuePromo/).
-
-### Special Thanks To:
-- [Michael Baumann](https://www.facebook.com/michael.baumann.5494) for his truly amazing authentic [jazz photography](https://www.flickr.com/photos/michaelbaumann_jano/sets/72157638299992995).  
 
 ## Alliance Offerings
 
@@ -150,7 +150,17 @@ to promote local jazz events in several regions of New York City:
 
 ## What Is Needed To Begin First Stage
 
-1. An impressive collection os automated online promotional services to properly facilitate event calendars, as well as assist venues and sponsors.
+1. Connect with local jazz-centric non-profits and establish alliances to best serve bands and venues.
+
+2. Enhance the value of current event promo budgets with free photography, online event promo and enhanced customized promotional strategies.
+
+3. Supplement online promo with parallel on-the-street efforts.
+
+4. Leverage existing local event promo groups and social networking points of presence by automating the syndication of online event calendars.
+
+5. Help bands better promote their own talents to other venues.
+
+6. Establish a monthly planning meeting with alliance partners to stay ahead of the curve with regard to project design, planning and scheduling.
 
 ---
 
@@ -186,10 +196,14 @@ to promote local jazz events in several regions of New York City:
 
 ## What Is Needed To Progress To Second Stage
 
-1. Promo scouts in each NYC Region of Focus. 
-2. 
+1. Engage promo scouts in each NYC Region of Focus.  Establish weekly patterns of calendar automation across all NYC Regions of Focus.
+
+2. Engage photographers who want to perfect their craft while adding value to the local jazz arts community and the venues that support them.
+
 3. 
+
 4. 
+
 5. 
 
 ---
@@ -202,13 +216,13 @@ to promote local jazz events in several regions of New York City:
 4. See if multi-lingual efforts get any traction.
 5. Establish explicit and formal terms of online donation deductions.
 6. Start to provide promotional services to bands for cheap, barter or free.
-
 7. Start to provide promotional service subscriptions to venues.
+
 ---
 
 ## What Is Needed To Progress To Third Stage
 
-1. 
+1. Formalize vendor sponsorship options.
 
 ---
 
@@ -218,17 +232,23 @@ to promote local jazz events in several regions of New York City:
 
 ---
 
+## Attributions
+
+- [Author](https://github.com/jeremy-donson/): Jeremy Donson, NYC
+- Special Thanks To [Michael Baumann](https://www.facebook.com/michael.baumann.5494) for his truly amazing authentic [jazz photography](https://www.flickr.com/photos/michaelbaumann_jano/sets/72157638299992995).  
+
+---
+
 ## Project Plan Enhancements
 
-- [ ] Clarify terms of tastes and sustainable exchange for both on-the-street and online intiatives.
-- [ ] Have Michael Baumann review and get his ok for this 'publicity stunt'. ;)
-- [ ] On the ground + Online for each stage.
+- [x] Get commitments from 2+ photographers to add to the value of what we are doing.
 - [ ] Add photography program section.
-- [ ] Create selenium script for event post creation.
+- [ ] Polish the alliance offers with some cherry-picked jazz-centric non-profits.
+- [ ] Clarify terms of tastes and sustainable exchange for both on-the-street and online intiatives.
+- [ ] Add on-the-street + online effort for each stage.
 - [ ] Scrape events from web site with BeautifulSoup.
+- [ ] Create selenium script for event post creation.
 - [ ] Add this project to other projects.
 
 ---
 [Return To Project Main README Doc](README.md)
-[Author](https://github.com/jeremy-donson/): Jeremy Donson, NYC
-- Date Created: Feb 11, 2018
